@@ -3,7 +3,7 @@ packages:
   - packages/*
   - scripts/*
 catalog:
-  zod: ^3.25.42
+  zod: ^4.6.6
   better-auth: ^1.2.9
   autumn-js: ^0.0.48
   superjson: ^2.2.2
